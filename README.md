@@ -1,5 +1,4 @@
-# 42028 Deep Learning and Convolutional Neural Networks Autumn 2020 <br />
-## Assignment 1
+# 42028 Deep Learning and Convolutional Neural Networks Autumn 2020 <br /> Assignment 1
 
 ## About the Program
 
