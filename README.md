@@ -1,4 +1,4 @@
-# 42028 Deep Learning and Convolutional Neural Networks Autumn 2020 <br /> Assignment 1
+# 42028 Deep Learning and Convolutional Neural Networks Autumn 2020 <br /> 
 
 ## About the Program
 
@@ -21,4 +21,3 @@ Within 'Data' folder includes four ubyte.gz documents corresponds to training da
 ## Author
 
  **YIFEI ZHI** 
- 13269410
